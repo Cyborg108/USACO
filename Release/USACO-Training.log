@@ -1,0 +1,12 @@
+﻿  maze1.cpp
+maze1.cpp(40): warning C4553: '==': operator has no effect; did you intend '='?
+maze1.cpp(43): warning C4553: '==': operator has no effect; did you intend '='?
+maze1.cpp(46): warning C4553: '==': operator has no effect; did you intend '='?
+maze1.cpp(49): warning C4553: '==': operator has no effect; did you intend '='?
+  Generating code
+c:\rupert_li_storage_folder\usaco mvs training\usaco-training\usaco-training\maze1.cpp(53): warning C4715: 'solve': not all control paths return a value
+  1 of 153 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  USACO-Training.vcxproj -> C:\Rupert_Li_Storage_Folder\USACO MVS Training\USACO-Training\Release\USACO-Training.exe
